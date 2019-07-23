@@ -58,7 +58,10 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * get them to drag the 1.2-basic-tags folder to the Brackets icon, this shows the whole working folder on the left hand panel of Brackets. Click on index.html
 * talk through the different html tags
 * When we have everything from a start tag to an end tag, it is is called a HTML element, some html elements have content, which is placed between the tags, some html elements like the br or img elements do not, these tags close and open in the one tag, see the img tag in the example.
-* ADD IN IMAGES CONTENT?
+* Take a look at the img tag - and the src attribute of the tag. This looks for a image file relative to the index.html file i.e. looking inside the folder called img and find the file xxxxxxx.jpg. Web images usually jpg, png or gif. For now we can get them to stick to jpgs
+* They could find a jpg and put it in the img folder and then add another image to the page by copying the img tag there and changing the file name to their new file
+* If they image is too large they may need to size the image in Photoshop. There is a link to this quick tutorial on how to do this on UTSOnline > Web Task Tutorials (https://www.taralesher.com/blog/exporting-photoshop-images-for-web)
+* Main thing to pay attention to is the WIDTH and HEIGHT of the image in pixels
 * Go through each of the tags h1 - h6 is the hierarchy of headings, with h1 the most semantically
 * If time get them to open up 1.3-basic-visual-heirachy. HTML tage are semantic, we can see how the different tags denote what types of content the text is and creates a semantic hierarchy of information. The browser also does a basic stylised interpretation of this i.e. headings a bold and of different sizes and paragraph text is regular weight.
 * We have also given them the basic file they will be working from (1.4-page-with-copy-text).
@@ -97,7 +100,7 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * you can also see example 2.2-web-fonts-example
 
 ### For Next Week:
-Students are to select a place and create an illustration of it (they can do this anyway, hand-drawn, traced, a collage) and bring it in for next week. They should bring a print out of this for next week.
+Students are to select a place and create an illustration of it (they can do this anyway, hand-drawn, traced, a collage - and keep it simple!) and bring it in for next week. They should bring a print out of this for next week.
 
 ## Week 3: Overview of Class for 13th of August
 
@@ -105,21 +108,35 @@ Students are to select a place and create an illustration of it (they can do thi
 * Get students into groups of about 4
 * Get them to 'pin-up' their illustrations
 * Share what their place is, what category is it? Why do they think it is interesting - what will they write about it?
-* Get them to give feedback to each other on how they could refine it
 
 ### Basic Layout
-* we can put space between blocks of type within a tyle element using line-height, but if we want to create space between different elements i.e. between a h1 and a p, then we need to using padding/margin
-* you can imagine each type element like a block, that spans the width of the web browser
+* we can put space between blocks of type within a  element using the line-height property (i.e. within a paragraph), but if we want to create space between different elements i.e. between a h1 and a p, then we need to using padding/margin
+* you can imagine each type element like a "block", that spans the width of the web browser
 * i.e. if you do h1 {background: yellow;} we can see the 'box', this describes the 'content' area i.e. https://www.w3schools.com/css/css_boxmodel.asp
 * if you set the padding i.e. padding: 20px, this will add 20px padding around the entire element on all sides. See what happens
 * if we set the margin this creates space between the edge of the box and the next element
 * margin is generally the best way to create space between elements
+* you can image padding like pillows within a box padding from the edge of the box inside, you can image margins as being like moats, they add space outside from the edge of the box
 * if you do margin: 0px 0px 20px 0px; this allows you to set different margins for the different sides of the element. this will put a 20px margin between the h1 element and the p element beneath it. the sides are top right bottom left
 * for this you will just be taking them through applying padding and margin to the type elements i.e. adding white space
 
+### For Next Week:
+* Students are to work on their web page and to come in with a basic web page for next week, it should have a title, an image (their illustration or a placeholder) and their description. They should work on the detailing of the page. They should bring in a scanned or digital copy of their illustration if they have not placed it in yet.
 
-### Placing an Image
-* Andrew will give an example showing how to place images, take students through this code - still to come -
-* If time show them how to save images to the right size for web. this is a resource for how to do this https://www.taralesher.com/blog/exporting-photoshop-images-for-web
+
+## Week 4: Overview of Class for 13th of August
+
+### Finishing / Refining
+* Help students with finishing up their web pages. Students can work on their projects more in the lead up to the portfolio review, but make sure each student has a web page up, and that it is at least a basic presentation of title, an illustration and a description
+
+### Making our Text and Image II map of Sydney
+* (Monica and Andrew still to fix this up a little)
+* Students are to link to each others pages 
+* Have to link to one other student's webpage with some similarity (i.e. by category)
+* Have to link to one student whose place is nearby to theirs
+* Take them through how to make a link, and how to link to each other's URLs i.e. a href=
+* Share a URL with the next set of tutorials (so we can link up with them)
+
+
 
 
