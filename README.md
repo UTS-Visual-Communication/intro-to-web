@@ -46,13 +46,13 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * Change something in their file locally and then upload again and refresh their URL
 * You don’t need to upload every time you make a change
 * Explain to them that you can work on your file and view locally, and then upload when you are happy with all of your edits
-
+* If you have a generous amount of time left you could take them through the Basic HTML Elements (see first section of next week)
 
 ### For next week
-* Students do a sketch of the image they want to create
+* Students watch out for a place/structure they want to do their web page on according to the Vanessa Berry-led categories. Recommend taking a quick snap on their smartphone when they see something of interest!
 
 
-## Overview of Class for 30th July
+## Overview of Class for 6th of August
 
 ### Basic HTML elements (i.e. h, p , img)
 * get them to drag the 1.2-basic-tags folder to the Brackets icon, this shows the whole working folder on the left hand panel of Brackets. Click on index.html
