@@ -2,22 +2,26 @@
 
 ## Overview of Class for 30th of July
 
+Please take a look through these overviews before class so that you are prepared. If you are not up to speed on basic web programming we suggest working through these steps in your own time.
+
+These short lectures could also be worthwhile watching over the weeks as well http://www.dontfeartheinternet.com/
+
 ### Download these files first. These are the files that students will be working with in class
 * https://github.com/UTS-Visual-Communication/intro-to-web-resources
 
 ### How the web works
-* get students to download the example files from GitHub
-and to open the index.html file (in 1.1-basic-web-page) up in the web browser (Chrome)
-* they will see the url starts will file:// this means we are viewing the file locally. Just like when you open a file on your computer.
+* get students to download the example files from GitHub (URL above)
+* then to open the index.html file that is inside 1.1-basic-web-page up in the web browser (Chrome)
+* they will see the url starts will file:// explaon that this means we are viewing the file locally i.e. the browser is reading the file that is on the computer. Just like when you open a file on your computer in any other program.
 * get them to go to the assignment url (https://uts-visual-communication.github.io/intro-to-web/) it starts with http, explain that this means we are viewing the page over the internet. Basically when you put in a url, your computer requests files from a server that is hosting them, with this basic web page the browser interprets the html and the css files and displays it in the browser window
 * the html (stands for hypertext markup language) describes the content of the page (i.e. the text, and what type of content the text is)
 * the css (stands for cascading style sheet) styles the page
 
 ### Take students through the brief
 * Talk students through what is required of them (see brief)
-* Ask if they have any questions
+* Ask if they have any questions from the lecture / about the brief
 
-### Course Tools
+### Take them through subject tools
 * we use Brackets to edit the html, Brackets is available on all of the Level 3 machines. Brackets is free they can download it on their own machines.
 * we use Google Chrome to test out our files
 * get them to open the html file up in Brackets
@@ -27,21 +31,28 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * notice how there are opening tags and closing tags. Tags describe the content that is between their opening and closing
 * head tag just contains information about the file that the browser uses to understand the file and display it
 * body tag contains information about what to display in the browser window, they will be mainly changing things inside the body tags
-* look at the code and change something in one of the html tags
-* then go back to the local file and refresh it, they can see the changes
-* each time they make a change they need to refresh (if they are viewing the file locally)
+* look at the code and change something the h1 tags, and save the file
+* then go back to the browser and refresh it, they can see the changes
+* each time they make a change they need to save and refresh 
 
 ### Uploading a file to the server (we give them a base file) - we have a setup now that students will be using throughout their degree, will give you details on how this works.
 * You can find a PDF that overviews this process on UTSOnline see Subject Documents > Getting Your Work Online (Server Instructions)
-* We have asked for a folder to be made for each of you, once it is available we will let you know and you an go through this process before your class on Tuesday.
+* We have asked for a folder to be made for each of you (these should be available from Friday, you will get an email to your UTS staff email account)
 * We also have some little tutorials on different things in the 'Web Task Tutorials' folder which the students can access or you can too!
 * Lead the students through the material that is in the PDF
-* This will take a while to heard them through this
+* This will take a while to heard them through this (maybe the WHOLE class)
 * Get them to upload the index.html file that is inside 1.1-basic-web-page
-* Then go to their URL and check it (make sure they are not viewing the file locally)
-* Change something locally and then upload again and refresh their URL
+* Then go to their URL and check it (make sure they are not viewing the file locally - get them to check that it starts with http)
+* Change something in their file locally and then upload again and refresh their URL
 * You don’t need to upload every time you make a change
 * Explain to them that you can work on your file and view locally, and then upload when you are happy with all of your edits
+
+
+### For next week
+* Students do a sketch of the image they want to create
+
+
+## Overview of Class for 30th July
 
 ### Basic HTML elements (i.e. h, p , img)
 * get them to drag the 1.2-basic-tags folder to the Brackets icon, this shows the whole working folder on the left hand panel of Brackets. Click on index.html
@@ -51,16 +62,6 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 * If time get them to open up 1.3-basic-visual-heirachy. HTML tage are semantic, we can see how the different tags denote what types of content the text is and creates a semantic hierarchy of information. The browser also does a basic stylised interpretation of this i.e. headings a bold and of different sizes and paragraph text is regular weight.
 * We have also given them the basic text of the Emil Ruder essay 'Rhythm' that they will be working with (1.4-page-with-copy-text). They should have a read of this over the week and also have a go at applying tags to the content. And to bring that file in next week.
 * They should also read through the brief online, https://monicamonin.github.io/intro-to-web/, and bring any questions that have to you next week.
-
-### For next week
-* Students do a sketch of the image they want to create
-
-
-## Overview of Class for 30th July
-
-### Download these files first. The example code for this week is in the session.2 folder
-#### nb. This has been updated so students will also need to download it again
-* https://github.com/UTS-Visual-Communication/intro-to-web-resources
 
 ### CSS with focus on typography
 * andrew will give you a template file which shows students how they can use css to control the style of the type
