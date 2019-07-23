@@ -1,6 +1,6 @@
 # Introduction to The Web
 
-## Week 1: Overview of Class for 30th of July
+## Week 2: Overview of Class for 30th of July
 
 Please take a look through these overviews before class so that you are prepared. If you are not up to speed on basic web programming we suggest working through these steps in your own time.
 
@@ -52,7 +52,7 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * Students watch out for a place/structure they want to do their web page on according to the Vanessa Berry-led categories. Recommend taking a quick snap on their smartphone when they see something of interest!
 
 
-## Week 2: Overview of Class for 6th of August
+## Week 3: Overview of Class for 6th of August
 
 ### Basic HTML elements (i.e. h, p , img)
 * get them to drag the 1.2-basic-tags folder to the Brackets icon, this shows the whole working folder on the left hand panel of Brackets. Click on index.html
@@ -102,7 +102,7 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 ### For Next Week:
 Students are to select a place and create an illustration of it (they can do this anyway, hand-drawn, traced, a collage - and keep it simple!) and bring it in for next week. They should bring a print out of this for next week.
 
-## Week 3: Overview of Class for 13th of August
+## Week 5: Overview of Class for 13th of August
 
 ### What have you illustrated?
 * Get students into groups of about 4
@@ -124,7 +124,7 @@ Students are to select a place and create an illustration of it (they can do thi
 * Students are to work on their web page and to come in with a basic web page for next week, it should have a title, an image (their illustration or a placeholder) and their description. They should work on the detailing of the page. They should bring in a scanned or digital copy of their illustration if they have not placed it in yet.
 
 
-## Week 4: Overview of Class for 13th of August
+## Week 5: Overview of Class for 13th of August
 
 ### Finishing / Refining
 * Help students with finishing up their web pages. Students can work on their projects more in the lead up to the portfolio review, but make sure each student has a web page up, and that it is at least a basic presentation of title, an illustration and a description
