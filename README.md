@@ -1,6 +1,6 @@
 # Introduction to The Web
 
-## Overview of Class for 30th of July
+## Week 1: Overview of Class for 30th of July
 
 Please take a look through these overviews before class so that you are prepared. If you are not up to speed on basic web programming we suggest working through these steps in your own time.
 
@@ -52,25 +52,24 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * Students watch out for a place/structure they want to do their web page on according to the Vanessa Berry-led categories. Recommend taking a quick snap on their smartphone when they see something of interest!
 
 
-## Overview of Class for 6th of August
+## Week 2: Overview of Class for 6th of August
 
 ### Basic HTML elements (i.e. h, p , img)
 * get them to drag the 1.2-basic-tags folder to the Brackets icon, this shows the whole working folder on the left hand panel of Brackets. Click on index.html
 * talk through the different html tags
 * When we have everything from a start tag to an end tag, it is is called a HTML element, some html elements have content, which is placed between the tags, some html elements like the br or img elements do not, these tags close and open in the one tag, see the img tag in the example.
+* ADD IN IMAGES CONTENT?
 * Go through each of the tags h1 - h6 is the hierarchy of headings, with h1 the most semantically
 * If time get them to open up 1.3-basic-visual-heirachy. HTML tage are semantic, we can see how the different tags denote what types of content the text is and creates a semantic hierarchy of information. The browser also does a basic stylised interpretation of this i.e. headings a bold and of different sizes and paragraph text is regular weight.
-* We have also given them the basic text of the Emil Ruder essay 'Rhythm' that they will be working with (1.4-page-with-copy-text). They should have a read of this over the week and also have a go at applying tags to the content. And to bring that file in next week.
-* They should also read through the brief online, https://monicamonin.github.io/intro-to-web/, and bring any questions that have to you next week.
+* We have also given them the basic file they will be working from (1.4-page-with-copy-text).
 
 ### CSS with focus on typography
-* andrew will give you a template file which shows students how they can use css to control the style of the type
-* get students to download the files and open up the html file, notice the type does not have the default style
+* see session.2 > 2.1-basic-text-styling, this file  shows students how they can use css to control the style of the type
 * we style our webpages using CSS, cascading style sheet. CSS = Style. HTML = Content.
 * we reference an external stylesheet, a CSS file (show them CSS link, and get them to open up the CSS file in the HTML editor)
 * take them through how to attach a style to a HTML element i.e. a h1 element
 * h1 { } we denote the element we want to style and then have two curly brackets, inside these curly brackets we can style various properties of the element
-* i.e. font-style: italic; it's always property: propertyvalue;
+* i.e. font-style: italic; it's always property: property-value;
 * then show them font-family, and explain how their are common web-safe fonts available on machines
 * see this link for a list https://www.w3schools.com/cssref/css_websafe_fonts.asp
 * get them to set font-family for one of their type elements, it tries to load the first font specified in this list, and if this is not available the next one and so on. i.e. font-family: Arial, Helvetica, sans-serif; see https://www.w3schools.com/cssref/pr_font_font-family.asp
@@ -95,7 +94,18 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 * and get them to paste it above where they import their style sheet, this is so that the fonts are referenced BEFORE they load their own style sheet and use them
 * get them to go into their style sheet and for one of their type element tags (i.e. h1) copy the 'specify in css' from Google Fonts i.e. font-family: 'Roboto', sans-serif; as a property for their style
 * save the file and refresh their version so they can see if their Google font has loaded
+* you can also see example 2.2-web-fonts-example
 
+### For Next Week:
+Students are to select a place and create an illustration of it (they can do this anyway, hand-drawn, traced, a collage) and bring it in for next week. They should bring a print out of this for next week.
+
+## Week 3: Overview of Class for 13th of August
+
+### What have you illustrated?
+* Get students into groups of about 4
+* Get them to 'pin-up' their illustrations
+* Share what their place is, what category is it? Why do they think it is interesting - what will they write about it?
+* Get them to give feedback to each other on how they could refine it
 
 ### Basic Layout
 * we can put space between blocks of type within a tyle element using line-height, but if we want to create space between different elements i.e. between a h1 and a p, then we need to using padding/margin
