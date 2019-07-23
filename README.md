@@ -1,15 +1,15 @@
 # Introduction to The Web
 
-## Overview of Class for 23rd of July
+## Overview of Class for 30th of July
 
 ### Download these files first. These are the files that students will be working with in class
-* https://github.com/clavis-magna/intro-to-web/archive/master.zip
+* https://github.com/UTS-Visual-Communication/intro-to-web-resources
 
 ### How the web works
 * get students to download the example files from GitHub
 and to open the index.html file (in 1.1-basic-web-page) up in the web browser (Chrome)
 * they will see the url starts will file:// this means we are viewing the file locally. Just like when you open a file on your computer.
-* get them to go to the assignment url (https://monicamonin.github.io/intro-to-web/) it starts with http, explain that this means we are viewing the page over the internet. Basically when you put in a url, your computer requests files from a server that is hosting them, with this basic web page the browser interprets the html and the css files and displays it in the browser window
+* get them to go to the assignment url (https://uts-visual-communication.github.io/intro-to-web/) it starts with http, explain that this means we are viewing the page over the internet. Basically when you put in a url, your computer requests files from a server that is hosting them, with this basic web page the browser interprets the html and the css files and displays it in the browser window
 * the html (stands for hypertext markup language) describes the content of the page (i.e. the text, and what type of content the text is)
 * the css (stands for cascading style sheet) styles the page
 
@@ -60,7 +60,7 @@ and to open the index.html file (in 1.1-basic-web-page) up in the web browser (C
 
 ### Download these files first. The example code for this week is in the session.2 folder
 #### nb. This has been updated so students will also need to download it again
-* https://github.com/clavis-magna/intro-to-web/archive/master.zip
+* https://github.com/UTS-Visual-Communication/intro-to-web-resources
 
 ### CSS with focus on typography
 * andrew will give you a template file which shows students how they can use css to control the style of the type
