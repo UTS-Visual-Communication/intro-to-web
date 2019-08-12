@@ -102,7 +102,7 @@ These short lectures could also be worthwhile watching over the weeks as well ht
 ### For Next Week:
 Students are to select a place and create an illustration of it (they can do this anyway, hand-drawn, traced, a collage - and keep it simple!) and bring it in for next week. They should bring a print out of this for next week.
 
-## Week 5: Overview of Class for 13th of August
+## Week 4: Overview of Class for 13th of August
 
 ### What have you illustrated?
 * Get students into groups of about 4
