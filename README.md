@@ -136,7 +136,8 @@ Students are to select a place and create an illustration of it (they can do thi
 * Then take them through how to make a link, and how to link to each other's URLs i.e. a href=
 * They are to think about how they want to do the link i.e. is it at the bottom of the page, or is it a word in their text? And what text is used for link i.e. "Another Mystery Structure" or "Nearby you might find..."
 * If a student doesn't have a link (or have two), they can go to one of the other class rooms and link up with a student there. Please also keep a couple of URLs from your class to pass on to the next set of classes.
-* If a student doesn't have a web page, just get work the 1.4-page-with-copy-text in the examples folder and quickly change the text to their heading / description and add links in here. 
+* If a student doesn't have a web page, just get them to work on the 1.4-page-with-copy-text in the examples folder and quickly change the text to their heading / description and add links in here. 
+* Make sure you have time in class for them to upload their web page and check their links work.
 
 
 
