@@ -126,16 +126,17 @@ Students are to select a place and create an illustration of it (they can do thi
 
 ## Week 5: Overview of Class for 13th of August
 
-### Finishing / Refining
+### Finishing / Refining (first hour)
 * Help students with finishing up their web pages. Students can work on their projects more in the lead up to the portfolio review, but make sure each student has a web page up, and that it is at least a basic presentation of title, an illustration and a description
 
-### Making our Text and Image II map of Sydney
-* (Monica and Andrew still to fix this up a little)
-* Students are to link to each others pages 
-* Have to link to one other student's webpage with some similarity (i.e. by category)
-* Have to link to one student whose place is nearby to theirs
-* Take them through how to make a link, and how to link to each other's URLs i.e. a href=
-* Share a URL with the next set of tutorials (so we can link up with them)
+### Making our Text and Image II map of Sydney (second hour)
+* Get students to bring up their web pages on screen and walk around the room and look at each others work
+* They can pick two other people's websites that they want to link up with
+* A person can only be linked to twice, we'll give you some dots to put in front of their computer's so they can know that person has been linked up already. They also cannot link back and forth to each other. They will need to get the students URL so they can link to them.
+* Then take them through how to make a link, and how to link to each other's URLs i.e. a href=
+* They are to think about how they want to do the link i.e. is it at the bottom of the page, or is it a word in their text? And what text is used for link i.e. "Another Mystery Structure" or "Nearby you might find..."
+* If a student doesn't have a link (or have two), they can go to one of the other class rooms and link up with a student there. Please also keep a couple of URLs from your class to pass on to the next set of classes.
+* If a student doesn't have a web page, just get work the 1.4-page-with-copy-text in the examples folder and quickly change the text to their heading / description and add links in here. 
 
 
 
