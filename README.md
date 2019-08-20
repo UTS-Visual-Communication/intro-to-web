@@ -132,7 +132,7 @@ Students are to select a place and create an illustration of it (they can do thi
 ### Making our Text and Image II map of Sydney (second hour)
 * Get students to bring up their web pages on screen and walk around the room and look at each others work
 * They can pick two other people's websites that they want to link up with
-* A person can only be linked to twice, we'll give you some dots to put in front of their computer's so they can know that person has been linked up already. They also cannot link back and forth to each other. They will need to get the students URL so they can link to them.
+* A person can only be linked to twice, we'll give you post-its. Each student writes their URL on two post its in front of their computer, if someone wants to link up to them they take the post it. If you have some post its at the end of class gather them up and give them to the next set up classes to use.
 * Then take them through how to make a link, and how to link to each other's URLs i.e. a href=
 * They are to think about how they want to do the link i.e. is it at the bottom of the page, or is it a word in their text? And what text is used for link i.e. "Another Mystery Structure" or "Nearby you might find..."
 * If a student doesn't have a link (or have two), they can go to one of the other class rooms and link up with a student there. Please also keep a couple of URLs from your class to pass on to the next set of classes.
